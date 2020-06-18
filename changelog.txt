@@ -1,0 +1,16 @@
+--------------- CHANGELOG ---------------
+
+>> 28/4/20
+   > basic input system finished
+   > basic data saving list system created
+   > README.md created
+
+>> 29/4/20
+   > main menu GUI done
+   > csv creator done
+   > csv creator GUI done
+   > added icon
+   > edit page done
+   > saving system finished
+   > open file system done
+   > now all the file will save into a specific path 'database/'
